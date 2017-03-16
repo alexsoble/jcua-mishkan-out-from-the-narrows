@@ -65,6 +65,8 @@ hold space for reactions/questions
 ---
 What Is The Role Of The Jewish Community?
 ---
+text excerpt
+---
 How does this issue affect you personally?
 As a Chicago resident? As a neighborhood resident? As a Jew?
 ---
