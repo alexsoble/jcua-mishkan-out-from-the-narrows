@@ -42,7 +42,7 @@ Ratio for clinicians available to address physical/mental health concerns to CPD
 ---
 1 for every 4,000
 ---
-[hold space for reactions/questions]
+hold space for reactions/questions
 ---
 How Are Communities Organizing For Change?
 ---
@@ -61,14 +61,14 @@ Community Conversation Recommendations
 * Community oversight/review board
 * Hiring practices, Training, Use of force protocols
 ---
-[hold space for reactions/questions]
+hold space for reactions/questions
 ---
 What Is The Role Of The Jewish Community?
 ---
 How does this issue affect you personally?
 As a Chicago resident? As a neighborhood resident? As a Jew?
 ---
-[hold space for reactions/questions]
+hold space for reactions/questions
 ---
 How Can We Take Action?
 ---
@@ -83,5 +83,5 @@ Out from the Narrows
 * Davening Team
 * Mensch Academy (?)
 ---
-[hold space for reactions/questions]
+hold space for reactions/questions
 ---
