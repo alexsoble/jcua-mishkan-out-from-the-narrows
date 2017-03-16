@@ -11,28 +11,13 @@ OUT FROM THE NARROWS
 ---
 How Did We Get Here?
 ---
-One woman's story...
-Rekia Boyd
----
-On March 21, 2012, 22-year old Rekia Boyd was fatally shot in the  back of her head by an off-duty police officer.
----
-Rekia was not carrying a weapon nor was she involved in any wrongdoing.
----
-The officer, Dante Servin, was charged with involuntary manslaughter and then cleared of all charges.
----
-Officer Dante resigned prior to a hearing that would decide if he should be fired.
----
-$97,000 a year pension for life.
+<a href="http://abc7chicago.com/news/mother-calls-for-officer-who-fatally-shot-her-son-to-be-fired-/1728661/" target="_blank">http://abc7chicago.com/news/mother-calls-for-officer-who-fatally-shot-her-son-to-be-fired-/1728661/</a>
 ---
 Systemic
 ---
 How many shootings from 2010-2015 found "unjustified"?
 ---
 2 out of 409
----
-Ratio of CPD use of force against black people compared to white people?
----
-10:1
 ---
 Tax $ spent on settlements since 2004?
 ---
@@ -48,7 +33,7 @@ How Are Communities Organizing For Change?
 ---
 GAPA
 ---
-11 community organizations
+11 organizations
 ---
 15 community conversations
 ---
@@ -65,7 +50,7 @@ hold space for reactions/questions
 ---
 What Is The Role Of The Jewish Community?
 ---
-text excerpt
+text excerpt: Anti-Semitism, Security, and What it Means to Be Protected
 ---
 How does this issue affect you personally?
 As a Chicago resident? As a neighborhood resident? As a Jew?
@@ -85,5 +70,5 @@ Mishkan presence
 * Davening Team
 * Mensch Academy (?)
 ---
-hold space for reactions/questions
+hold space for reactions/questions --> committment cards
 ---
