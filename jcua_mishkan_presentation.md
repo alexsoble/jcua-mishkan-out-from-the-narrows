@@ -78,7 +78,7 @@ Out from the Narrows
 * KAM Isaiah Israel
 * 1100 E Hyde Park Blvd.
 ---
-(Mishkan presence)
+Mishkan presence
 * Rabbi L.
 * Davening Team
 * Mensch Academy (?)
